@@ -43,8 +43,8 @@
 ### 🧠 What I learned
 - How Kanban boards are used in real software development
 - How to break a project into small, manageable tasks
-- Importance of prioritization (P0, P1, P2)
-- Difference between project planning and actual implementation
+- Importance of structured planning in software projects
+- Difference between planning and implementation phases
 
 ### 💡 Key insights
 - Large software projects are always divided into small tasks
@@ -52,6 +52,6 @@
 - Planning work properly makes development more structured and efficient
 
 ### 📌 Next steps
-- Start first P0 task: project structure setup
-- Initialize API connection (first REST API call)
+- Prioritize tasks in the Kanban board
+- Start first implementation task (project setup and environment configuration)
 - Begin implementing backend logic step by step
